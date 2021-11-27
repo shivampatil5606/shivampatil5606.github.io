@@ -56,7 +56,19 @@ a:focus {
   color: #fff;
   box-shadow: none;
 }
+a.btn-cta-primary, .btn-cta-primary {
+  background: #ff7aab;
+  border: 1px solid #ff7aab;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+}
 
+a.btn-cta-primary:hover, .btn-cta-primary:hover {
+  background: #ff609a;
+  border: 1px solid #ff609a;
+  color: #fff;
+}
 
 
 a.btn-cta-secondary, .btn-cta-secondary {
